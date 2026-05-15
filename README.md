@@ -20,3 +20,13 @@
 # server sending before client enter the chat
 # stubid way of closing the program
 # It will be like a remaster
+=================================================================================================================================================================
+=================================================================================================================================================================
+=================================================================================================================================================================
+
+Date : 2026 / 5/ 15
+
+the next release will be delaed bc If you don't know I'm a umiversity student and I have exams next weak and I need to study 
+second thing I'm prepearing for the Tofel english test 
+I can't promise anything but maybe after the university mid term exams finish I will continue working on the enhancment 
+The only thing I can promise is the next release will be huge
